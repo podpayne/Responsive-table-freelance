@@ -1,0 +1,1 @@
+Client wanted his table to be responsive, this was my solution.
